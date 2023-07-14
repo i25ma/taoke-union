@@ -1,0 +1,21 @@
+{
+    "name": "i25ma/taoke-union",
+    "description": "taoke union",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "I25ma\\TaokeUnion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "i25ma"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "i25ma/jd-union":"1.0"
+
+    }
+}
