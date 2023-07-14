@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "i25ma/jd-union":"1.0"
+        "i25ma/jd-union":"*",
+	"i25ma/vip-union":"*"
 
     }
 }
